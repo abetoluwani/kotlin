@@ -1,2 +1,2 @@
-# kotlin
-Just Random Projrcts I created with Kotlin
+# Kotlin
+Just Random Projects I created with Kotlin
